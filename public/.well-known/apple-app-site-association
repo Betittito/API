@@ -1,10 +1,14 @@
+
 {
   "applinks": {
     "apps": [],
     "details": [
       {
-        "appID": "MS7LTJWU6P.com.banorte.Banorte-Movil",
-        "paths": ["/ruta/*", "/producto/*"]
+        "appID": "MS7LTJWU6P.com.banorte.Banorte-apitest",
+        "paths": [
+          "/ruta/*",
+          "/producto/*"
+        ]
       }
     ]
   }

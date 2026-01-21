@@ -5,7 +5,7 @@
     "details": [
       {
         "appID": "MS7LTJWU6P.com.banorte.Banorte-apitest",
-        "paths": ["*"]
+        "paths": ["/ruta/*", "/producto/*"]
       }
     ]
   }
